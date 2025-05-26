@@ -1,0 +1,16 @@
+**/*.pyc
+.idea
+**/*.bazel
+temp
+**/*.so
+
+# windows extension build
+*.pyd
+
+**/.DS_Store
+**~
+**/*.swp
+**/*.~un
+build/
+archive/
+*.egg-info
